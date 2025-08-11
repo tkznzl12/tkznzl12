@@ -1,12 +1,14 @@
 # 안녕하세요, 정수진입니다 👋
 
 💻 **프론트엔드 개발자** | 🌱 끊임없이 배우고 창작하는 사람  
+
 스타트업부터 기업 프로젝트까지 다양한 환경에서 경험을 쌓으며,  
 유지보수성과 사용자 친화적인 코드를 작성하는 데 집중합니다.
 
 ---
 
 ## 🚀 기술 스택
+
 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js  
 **Styling:** CSS3, Styled-Components, Tailwind CSS  
 **기타:** Git, REST API, SEO 최적화, Figma, Electron
@@ -29,17 +31,17 @@
 
 ## 🏢 경력
 
-**샘랩 (Frontend Developer)** (2021.04~2023.06) 
-- 여러 기업 및 서비스 웹사이트 개발 및 유지보수  
-- PG 결제 시스템(Toss, Hecto, DaouVP, KCP) 연동  
-- 관리자 대시보드 및 인터랙티브 맵 뷰어 개발  
-- SEO 최적화 작업 진행
-
 **신성 ICT (Frontend Developer)** (2023.12~2024.09) 
 - 회사 및 클라이언트 웹사이트 프론트엔드 개발  
 - Welcomepayments & PortOne PG 결제 연동  
 - 재사용 가능한 함수와 컴포넌트 제작  
 - 반응형 및 접근성 고려한 UI 개발
+
+**샘랩 (Frontend Developer)** (2021.04~2023.06) 
+- 여러 기업 및 서비스 웹사이트 개발 및 유지보수  
+- PG 결제 시스템(Toss, Hecto, DaouVP, KCP) 연동  
+- 관리자 대시보드 및 인터랙티브 맵 뷰어 개발  
+- SEO 최적화 작업 진행
 
 ---
 
