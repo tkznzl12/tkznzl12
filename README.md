@@ -1,57 +1,42 @@
-# 👋 Hello / 안녕하세요, 정수진입니다
+# 안녕하세요, 정수진입니다 👋
 
-💻 **Frontend Developer** | 🌱 Constant Learner & Creator  
-I enjoy crafting clean, intuitive UI/UX.  
-From startups to enterprise projects, I focus on writing maintainable and user-friendly code.  
-
-깔끔하고 직관적인 웹사이트를 좋아합니다.  
+💻 **프론트엔드 개발자** | 🌱 끊임없이 배우고 창작하는 사람  
+깔끔하고 직관적인 UI/UX를 만드는 것을 좋아합니다.  
 스타트업부터 기업 프로젝트까지 다양한 환경에서 경험을 쌓으며,  
 유지보수성과 사용자 친화적인 코드를 작성하는 데 집중합니다.
 
 ---
 
-## 🚀 Skills / 기술 스택
+## 🚀 기술 스택
 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js  
-**Styling:** CSS3, Styled-Components  
-**Others:** Git, REST API, SEO Optimization, Figma, Electron
+**Styling:** CSS3, Styled-Components, Tailwind CSS  
+**기타:** Git, REST API, SEO 최적화, Figma, Electron
 
 ---
 
-## 📂 Featured Projects / 주요 프로젝트
+## 📂 주요 프로젝트
 
-| Project | 설명 (Description) | Tech Stack | Link |
-|---------|-------------------|------------|------|
-| **더마당 티켓판매 페이지** | Ticket sales platform with PG payment integration | Next.js, TypeScript | [View Site](https://the-madang.com/mega-festival) |
-| **LUKAS Ent** | Corporate homepage with scroll animations & reusable components | Next.js, TypeScript | - |
-| **AtreeInvestment** | Custom-themed investment dashboard | Next.js, TypeScript | [View Site](https://atreeinvestment.co.kr/) |
-| **원모바일** | User/Admin pages, PG integration, reusable components | Next.js, React | [View Site](https://myonemobile.com/) |
-| **렛미업** | Study cafe kiosk system, payment flow update | React, Electron, CSS | - |
-| **클래스업** | Academy management platform (Admin, Landing, Point Mall) | React, Next.js | - |
-| **샘랩 랜딩페이지** | Corporate landing page with SEO optimization | Gatsby, React, Strapi | - |
+| 프로젝트명 | 설명 | 기술 스택 | 링크 |
+|------------|------|-----------|------|
+| **더마당 티켓판매 페이지** | 티켓 판매 플랫폼, PG 결제 연동 | Next.js, TypeScript | [바로가기](https://the-madang.com/mega-festival) |
+| **LUKAS Ent** | 스크롤 애니메이션과 재사용 컴포넌트를 적용한 기업 홈페이지 | Next.js, TypeScript | - |
+| **AtreeInvestment** | 커스텀 테마 기반 투자 대시보드 | Next.js, TypeScript | [바로가기](https://atreeinvestment.co.kr/) |
+| **원모바일** | 사용자/관리자 페이지, PG 결제 연동, 재사용 컴포넌트 제작 | Next.js, React | [바로가기](https://myonemobile.com/) |
+| **렛미업** | 스터디카페 관리자/사용자 키오스크 시스템, 결제 플로우 개편 | React, Electron, CSS | - |
+| **클래스업** | 학원관리 플랫폼(관리자, 랜딩, 포인트몰) | React, Next.js | - |
+| **샘랩 랜딩페이지** | 기업 랜딩페이지 제작 및 SEO 최적화 | Gatsby, React, Strapi | - |
 
 ---
 
-## 🏢 Experience / 경력
+## 🏢 경력
 
-**샘랩 (Frontend Developer)**  
-- Developed & maintained various corporate/service websites  
-- Integrated PG systems (Toss, Hecto, DaouVP, KCP)  
-- Built admin dashboards & interactive map viewer  
-- Performed SEO optimization tasks  
-
+**샘랩 (Frontend Developer)** (2021.04~2023.06) 
 - 여러 기업 및 서비스 웹사이트 개발 및 유지보수  
 - PG 결제 시스템(Toss, Hecto, DaouVP, KCP) 연동  
 - 관리자 대시보드 및 인터랙티브 맵 뷰어 개발  
 - SEO 최적화 작업 진행
 
----
-
-**신성 ICT (Frontend Developer)**  
-- Developed company & client websites  
-- Integrated Welcomepayments & PortOne PG  
-- Created reusable functions & components  
-- Built responsive & accessible UI  
-
+**신성 ICT (Frontend Developer)** (2023.12~2024.09) 
 - 회사 및 클라이언트 웹사이트 프론트엔드 개발  
 - Welcomepayments & PortOne PG 결제 연동  
 - 재사용 가능한 함수와 컴포넌트 제작  
@@ -59,9 +44,9 @@ From startups to enterprise projects, I focus on writing maintainable and user-f
 
 ---
 
-## 🌐 Links / 링크
-- **Blog / 블로그:** [https://gomdol97.tistory.com/](https://gomdol97.tistory.com/)  
-- **Email / 이메일:** your.email@example.com  
+## 🌐 연락처 & 링크
+- 블로그: [https://gomdol97.tistory.com/](https://gomdol97.tistory.com/)
+- 이메일: **tkznzl12@naver.com**
 
 ---
-✨ *"Passion in code, heart in design."* / *“코드에는 열정을, 디자인에는 마음을 담다.”*
+✨ *“한 걸음부터, 모든 변화가 시작된다.”*
