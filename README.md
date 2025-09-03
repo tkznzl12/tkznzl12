@@ -10,7 +10,9 @@
 ## 🚀 기술 스택
 
 **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML, Electron, REST API, SEO 최적화
+
 **Styling:** CSS3, Styled-Components  
+
 **기타:** Git, Figma, netlify
 
 ---
