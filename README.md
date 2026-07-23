@@ -114,7 +114,7 @@ Frontend 개발과 PL 역할을 병행하며
 > tkznzl12@naver.com
 
 🌐 **Portfolio**
-> (포트폴리오 링크)
+> [Download Portfolio (PDF)](./Portfolio.pdf)
 
 📝 **Blog**
 > https://gomdol97.tistory.com/
